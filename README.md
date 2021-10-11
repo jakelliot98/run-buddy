@@ -8,7 +8,7 @@ A website that offers fitness training services
 * CSS
 
 ## Website
-jakelliot98.github.io/run-buddy
+https://jakelliot98.github.io/run-buddy
 
 ## Contribution
 Made with love by Jake Cheatham
